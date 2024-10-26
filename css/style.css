@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    width: 300px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input, textarea, select, button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.cadastrar-btn {
+    display: inline-block; /* Manter o botão inline */
+    background-color: #28a745; /* Verde para o botão */
+    color: white; /* Texto em branco */
+    padding: 10px 20px; /* Espaçamento interno */
+    text-decoration: none; /* Remover sublinhado */
+    border-radius: 5px; /* Bordas arredondadas */
+    margin-top: 20px; /* Margem superior */
+    font-size: 16px; /* Tamanho da fonte */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidade */
+    transition: background-color 0.3s; /* Transição suave */
+}
+
+.cadastrar-btn:hover {
+    background-color: #218838; /* Escurecer no hover */
+}
+
+.cadastrar-btn {
+    display: inline-block; /* Manter o botão inline */
+    background-color: #28a745; /* Verde para o botão */
+    color: white; /* Texto em branco */
+    padding: 10px 20px; /* Espaçamento interno */
+    text-decoration: none; /* Remover sublinhado */
+    border-radius: 5px; /* Bordas arredondadas */
+    margin-top: 20px; /* Margem superior */
+    font-size: 16px; /* Tamanho da fonte */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidade */
+    transition: background-color 0.3s; /* Transição suave */
+}
+
+.cadastrar-btn:hover {
+    background-color: #218838; /* Escurecer no hover */
+}
